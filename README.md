@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Warner, I've been passionate about technology since I was a kid, I've been working with technology for over 15 years and 7 of those as a .net developer. I like to acquire new knowledge and learn about new technologies.
+
 [![Linkedin: warnerribeiro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warnerribeiro/)](https://www.linkedin.com/in/warnerribeiro/)
 
 ## ⚡ Technologies
