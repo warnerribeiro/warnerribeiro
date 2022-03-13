@@ -6,7 +6,7 @@
 
 These are some of the technologies and tools that I work with:
 
-![.Net Core](https://img.shields.io/badge/-.Net Core-563D7C?style=flat-square&logo=.net)
+![.Net Core](https://img.shields.io/badge/-.Net%20Core-563D7C?style=flat-square&logo=.net)
 ![.Net Framework](https://img.shields.io/badge/-.Net%20Framework-563D7C?style=flat-square&logo=.net)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
